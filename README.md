@@ -142,3 +142,6 @@ this software.
 - Thanks to the Termux community for their support and contributions.
 - This project is inspired by various open-source projects and their documentation.
 ```
+
+
+
